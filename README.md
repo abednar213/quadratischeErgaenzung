@@ -1,4 +1,4 @@
-# Parabelwerkstatt
+# Quadratische Funktionen
 
 Lernseite zu quadratischen Funktionen. Jede Übung ist ein eigener Reiter und eine eigene Datei.
 
